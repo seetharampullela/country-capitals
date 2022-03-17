@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.outer-container {
+  height: 100vh;
+  background-color: #93c5fd;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inner-container {
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.question {
+  display: flex;
+  justify-content: flex-start;
+}
+b {
+  margin-left: 10px;
+}
+
+.country-name {
+  font-size: 24px;
+  font-weight: bold;
+}
